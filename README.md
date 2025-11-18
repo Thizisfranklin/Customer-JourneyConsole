@@ -6,7 +6,7 @@ The goal is to practice **product-style analytics** and **light ML modeling** to
 
 ## 🔍 Motivation
 
-I’ve always been curious about how people actually use products—why they tap some features and ignore others, why they come back one week and disappear the next. During my Wayfair DS/AI externship, I saw firsthand how trends, behavior, and competitive signals drive real business decisions. At the same time, my earlier ML projects (SystemFit, FarmGuide, Loan Risk) were very model-focused, and I realized I needed to grow the “product analytics” side of data science too.
+I’ve always been curious about how people actually use products—why they tap some features and ignore others, why they come back one week and disappear the next. During my Wayfair as an AI Agent externship, I saw firsthand how trends, behavior, and competitive signals drive real business decisions. At the same time, my earlier ML projects (SystemFit, FarmGuide, Loan Risk) were very model-focused, and I realized I needed to grow the “product analytics” side of data science too.
 
 This project is my way of combining those ideas: I built a product analytics and user behavior dashboard to model activation, engagement, funnels, retention, and churn. Instead of just optimizing accuracy, I wanted to practice thinking in terms of DAU/WAU, conversion, and churn risk—the kinds of metrics real product and data teams care about.
 
