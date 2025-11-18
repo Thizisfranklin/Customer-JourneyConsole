@@ -1,5 +1,4 @@
-# Product Analytics & User Behavior Insights Dashboard (Personal Project)
-
+# A Personal Project on Product Analytics & User Behavior Insights 
 A personal data science project that analyzes user behavior, feature usage, funnels, and retention using simulated/public app data.  
 The goal is to practice **product-style analytics** and **light ML modeling** to understand what drives activation, engagement, and churn, and to present those insights in an interactive Streamlit dashboard.
 
@@ -52,7 +51,6 @@ This project is my way of combining those ideas: I built a product analytics and
 
 ## 📁 Project Structure
 
-> This is the structure I use for this project (you can adjust based on your repo):
 
 ```bash
 product-analytics-user-behavior-insights/
